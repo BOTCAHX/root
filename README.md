@@ -3,5 +3,5 @@
 
 # BY WILDY SHEVERANDO
 
-## ! Usage !
+# ! Usage !
 wget https://raw.githubusercontent.com/wildysheverando-project/root/main/root.sh && chmod +x root.sh && ./root.sh
