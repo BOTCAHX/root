@@ -30,3 +30,4 @@ echo "VPS Will Rebooting On 20 Second !!!!!"
 rm -f root.sh
 sleep 20
 reboot
+ 
